@@ -1,0 +1,29 @@
+
+#dept-name{
+	font-size:28px
+}
+th{
+	
+	text-align:right;
+
+}
+#top{
+	
+	padding:20px 0;
+	border-bottom:1px solid #eee;
+}
+#menu, #fsearch{
+	padding-top:10px;
+	
+}
+#content{
+	min-height:400px;
+}
+.title{
+	font-size:24px;
+}
+#logo{
+	padding-top:10px;
+	padding-left:60px;
+	
+}
